@@ -1,0 +1,19 @@
+origem,destino,custo_km
+Jundiai,Campinas,40
+Jundiai,Sao Paulo,60
+Jundiai,Itu,50
+Campinas,Limeira,55
+Campinas,Piracicaba,75
+Campinas,Americana,40
+Americana,Limeira,25
+Limeira,Piracicaba,35
+Piracicaba,Sorocaba,85
+Itu,Sorocaba,35
+Sao Paulo,Osasco,20
+Sao Paulo,Guarulhos,25
+Sao Paulo,Santos,75
+Osasco,Sorocaba,85
+Guarulhos,Mogi das Cruzes,50
+Mogi das Cruzes,Santos,80
+Sorocaba,Santos,150
+Campinas,Guarulhos,95
